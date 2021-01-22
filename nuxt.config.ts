@@ -13,9 +13,6 @@ const config: NuxtConfig = {
   buildModules: ["@nuxt/typescript-build"],
   modules: ["@nuxtjs/svg"],
   head,
-  server: {
-    port: 8080,
-  },
 }
 
 export default config
