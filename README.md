@@ -1,3 +1,8 @@
+![GitHub repo file count](https://shields-staging.herokuapp.com/github/directory-file-count/christophwen/linicons/icons?label=icons&style=flat-square)
+![Format](https://img.shields.io/badge/format-SVG-blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/christophwen/linicons?style=flat-square)
+![GitHub](https://img.shields.io/github/license/christophwen/linicons)
+
 # linicons
 
 <img src="./icons/battery-empty.svg" width="50"  align="left"/>
