@@ -6,6 +6,9 @@ import head from "./config/head"
 const config: NuxtConfig = {
   target: "static",
   srcDir: "src/",
+  router: {
+    base: "/linicons/",
+  },
   build,
   buildModules: ["@nuxt/typescript-build"],
   modules: ["@nuxtjs/svg"],
