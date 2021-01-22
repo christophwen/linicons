@@ -1,0 +1,53 @@
+{
+  "name": "linicons",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "generate": "nuxt-ts generate",
+    "start": "nuxt-ts start",
+    "lint": "eslint **/*.{js,ts,vue} --ignore-path .gitignore",
+    "stylelint": "stylelint **/*.{css,scss,vue} --ignore-path .gitignore",
+    "format": "prettier **/* --ignore-path .gitignore --check --write"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^2.0.1",
+    "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "@nuxt/types": "^2.14.12",
+    "@nuxt/typescript-build": "^2.0.4",
+    "@nuxtjs/eslint-config-typescript": "^5.0.0",
+    "@nuxtjs/svg": "^0.1.12",
+    "@typescript-eslint/eslint-plugin": "^4.14.0",
+    "@typescript-eslint/parser": "^4.14.0",
+    "eslint": "^7.18.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-vue": "^7.4.1",
+    "fibers": "^5.0.0",
+    "husky": "^4.3.8",
+    "lint-staged": "^10.5.3",
+    "normalize.css": "^8.0.1",
+    "prettier": "^2.2.1",
+    "sass": "^1.32.4",
+    "sass-loader": "^10.1.1",
+    "stylelint": "^13.8.0",
+    "stylelint-config-prettier": "^8.0.2",
+    "stylelint-config-sass-guidelines": "^7.1.0",
+    "stylelint-config-standard": "^20.0.0",
+    "tsconfig-paths-webpack-plugin": "^3.3.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,ts,vue}": "eslint --cache --fix",
+    "*.**/*": "prettier --write",
+    "*.{css,scss,vue}": "stylelint --fix"
+  }
+}

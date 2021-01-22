@@ -1,0 +1,19 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-sass-guidelines",
+    "stylelint-config-prettier"
+  ],
+  "rules": {
+    "color-hex-length": "long",
+    "max-nesting-depth": 4,
+    "selector-class-pattern": null,
+    "selector-max-compound-selectors": 4,
+    "selector-pseudo-element-no-unknown": [
+      true,
+      {
+        "ignorePseudoElements": ["v-deep"]
+      }
+    ]
+  }
+}
