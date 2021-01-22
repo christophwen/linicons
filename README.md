@@ -1,7 +1,7 @@
-![GitHub repo file count](https://shields-staging.herokuapp.com/github/directory-file-count/christophwen/linicons/icons?label=icons&style=flat-square)
-![Format](https://img.shields.io/badge/format-SVG-blueviolet?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/christophwen/linicons?style=flat-square)
-![GitHub](https://img.shields.io/github/license/christophwen/linicons?style=flat-square)
+![GitHub repo file count](https://shields-staging.herokuapp.com/github/directory-file-count/christophwen/linicons/icons?label=icons&style=flat-square&logo=&labelColor=222&logoColor=fff&color=fff&link=https://github.com/christophwen/linicons/tree/main/icons&link=https://github.com/christophwen/linicons/tree/main/icons)
+![Format](https://img.shields.io/badge/format-SVG-blueviolet?style=flat-square&logo=svg&labelColor=222&logoColor=fff&color=fff)
+![GitHub last commit](https://img.shields.io/github/last-commit/christophwen/linicons?style=flat-square&logo=github&labelColor=222&logoColor=fff&color=fff)
+![GitHub](https://img.shields.io/github/license/christophwen/linicons?style=flat-square&logo=open-source-initiative&labelColor=222&logoColor=fff&color=fff)
 
 # linicons
 
