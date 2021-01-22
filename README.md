@@ -5,8 +5,15 @@
 
 # linicons
 
+## Battery Icons
 <img src="./icons/battery-empty.svg" width="50"  align="left"/>
 <img src="./icons/battery-quarter.svg" width="50" align="left"/>
 <img src="./icons/battery-half.svg" width="50" align="left"/>
 <img src="./icons/battery-three-quarter.svg" width="50" align="left"/>
-<img src="./icons/battery-full.svg" width="50"/>
+<img src="./icons/battery-full.svg" width="50" align="left"/>
+<img src="./icons/battery-charging-1.svg" width="50" align="left"/>
+<img src="./icons/battery-charging-2.svg" width="50" align="left"/>
+<img src="./icons/battery-charging-empty.svg" width="50" align="left"/>
+<img src="./icons/battery-charging-quarter.svg" width="50" align="left"/>
+<img src="./icons/battery-charging-half.svg" width="50" align="left"/>
+<img src="./icons/battery-charging-three-quarter.svg" width="50"/>
