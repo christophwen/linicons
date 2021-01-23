@@ -84,10 +84,16 @@
   "arrow-down-circle": [
     "direction"
   ],
+  "arrow-down-square": [
+    "direction"
+  ],
   "arrow-down-left": [
     "direction"
   ],
   "arrow-down-left-circle": [
+    "direction"
+  ],
+  "arrow-down-left-square": [
     "direction"
   ],
   "arrow-down-right": [
@@ -96,10 +102,16 @@
   "arrow-down-right-circle": [
     "direction"
   ],
+  "arrow-down-right-square": [
+    "direction"
+  ],
   "arrow-left": [
     "direction"
   ],
   "arrow-left-circle": [
+    "direction"
+  ],
+  "arrow-left-square": [
     "direction"
   ],
   "arrow-right": [
@@ -108,10 +120,16 @@
   "arrow-right-circle": [
     "direction"
   ],
+  "arrow-right-square": [
+    "direction"
+  ],
   "arrow-up": [
     "direction"
   ],
   "arrow-up-circle": [
+    "direction"
+  ],
+  "arrow-up-square": [
     "direction"
   ],
   "arrow-up-left": [
@@ -120,10 +138,16 @@
   "arrow-up-left-circle": [
     "direction"
   ],
+  "arrow-up-left-square": [
+    "direction"
+  ],
   "arrow-up-right": [
     "direction"
   ],
   "arrow-up-right-circle": [
+    "direction"
+  ],
+  "arrow-up-right-square": [
     "direction"
   ],
   "at-sign": [
@@ -194,7 +218,8 @@
     "car",
     "vehicle",
     "tires",
-    "transportation"
+    "transportation",
+    "cabriolet"
   ],
   "car": [
     "vehicle",
@@ -291,7 +316,8 @@
     "direction"
   ],
   "linicon": [
-    "logo"
+    "logo",
+    "linicons"
   ],
   "link-1": [
     "chain",
@@ -373,7 +399,7 @@
     "controls"
   ],
   "stick-figure": [
-    "manniquin",
+    "mannequin",
     "guy",
     "male",
     "man",
@@ -382,7 +408,7 @@
     "character"
   ],
   "stick-figure-hands-up": [
-    "manniquin",
+    "mannequin",
     "guy",
     "male",
     "man",
