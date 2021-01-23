@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1 class="test">linicons - simple icons</h1>
+    <h1 class="test">linicons</h1>
+    <h2>simple and clean</h2>
     <IconGrid />
   </div>
 </template>
@@ -18,6 +19,14 @@ export default {
 h1 {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 4em;
+  font-style: italic;
+  margin-bottom: -0.5em;
+  text-align: center;
+}
+h2 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 2em;
+  margin-bottom: 2em;
   text-align: center;
 }
 div {

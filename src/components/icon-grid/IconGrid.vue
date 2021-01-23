@@ -63,12 +63,19 @@ export default Vue.extend({
   }
 }
 .icon-grid__search input {
+  border-color: #000000;
+  border-width: 0 0 2px;
   display: block;
   font-size: 1.5em;
   margin-bottom: 40px;
   margin-left: auto;
   margin-right: auto;
+  outline: 0;
   text-align: center;
-  width: 60%;
+  width: 100%;
+  
+  &::placeholder {
+  opacity: 0.2;
+  }
 }
 </style>

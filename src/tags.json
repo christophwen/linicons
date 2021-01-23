@@ -84,9 +84,6 @@
   "arrow-down-circle": [
     "direction"
   ],
-  "arrow-down-square": [
-    "direction"
-  ],
   "arrow-down-left": [
     "direction"
   ],
@@ -103,6 +100,9 @@
     "direction"
   ],
   "arrow-down-right-square": [
+    "direction"
+  ],
+  "arrow-down-square": [
     "direction"
   ],
   "arrow-left": [
@@ -129,9 +129,6 @@
   "arrow-up-circle": [
     "direction"
   ],
-  "arrow-up-square": [
-    "direction"
-  ],
   "arrow-up-left": [
     "direction"
   ],
@@ -148,6 +145,9 @@
     "direction"
   ],
   "arrow-up-right-square": [
+    "direction"
+  ],
+  "arrow-up-square": [
     "direction"
   ],
   "at-sign": [
