@@ -9,3 +9,5 @@
 ## What are linicons?
 
 **linicons** is a clean and simple SVG icon set under MIT license.
+
+https://christophwen.github.io/linicons/
