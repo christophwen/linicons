@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Hello world!</h1>
+    <h1 class="test">linicons - simple icons</h1>
     <IconGrid />
   </div>
 </template>
@@ -14,3 +14,26 @@ export default {
   },
 }
 </script>
+<style lang="scss" scoped>
+h1 {
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 4em;
+  text-align: center;
+}
+div {
+  margin-left: 10%;
+      margin-right: 10%;
+  @media (min-width: 767px) {
+    margin-left: 10%;
+      margin-right: 10%;
+    }
+    @media (min-width: 992px) {
+      margin-left: 10%;
+      margin-right: 10%;
+    }
+    @media (min-width: 1200px) {
+      margin-left: 10%;
+      margin-right: 10%;
+    }
+}
+</style>

@@ -49,7 +49,26 @@ export default Vue.extend({
 .icon-grid {
   &__results {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(5, 1fr);
+
+    @media (min-width: 767px) {
+      grid-template-columns: repeat(10, 1fr);
+    }
+    @media (min-width: 992px) {
+      grid-template-columns: repeat(15, 1fr);
+    }
+    @media (min-width: 1200px) {
+      grid-template-columns: repeat(20, 1fr);
+    }
   }
+}
+.icon-grid__search input {
+  display: block;
+  font-size: 1.5em;
+  margin-bottom: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  width: 60%;
 }
 </style>
