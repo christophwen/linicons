@@ -6,6 +6,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/christophwen/linicons?style=flat-square&logo=github&labelColor=222&logoColor=fff&color=fff)
 [![License](https://img.shields.io/github/license/christophwen/linicons?style=flat-square&logo=open-source-initiative&labelColor=222&logoColor=fff&color=fff)](https://github.com/christophwen/linicons/blob/main/LICENSE)
 
+![Banner](/banners/banner-random-1@2x.png)
+
 ## What are linicons?
 
 **linicons** is a clean and simple SVG icon set under MIT license.
