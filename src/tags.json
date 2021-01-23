@@ -1,135 +1,139 @@
 {
   "activity": [
-      "action",
-      "health",
-      "heartbeat",
-      "motion",
-      "pulse"
+    "action",
+    "health",
+    "heartbeat",
+    "motion",
+    "pulse"
   ],
   "airplay": [
-      "apple",
-      "cast",
-      "mirror",
-      "stream"
+    "apple",
+    "cast",
+    "mirror",
+    "stream"
   ],
   "alert-circle": [
-      "alert",
-      "danger",
-      "exclamation",
-      "sign",
-      "warning"
+    "alert",
+    "danger",
+    "exclamation",
+    "sign",
+    "warning"
   ],
   "alert-triangle": [
-      "alert",
-      "danger",
-      "exclamation",
-      "sign",
-      "warning"
+    "alert",
+    "danger",
+    "exclamation",
+    "sign",
+    "warning"
   ],
   "align-center": [
-      "centered",
-      "position",
-      "text alignment"
+    "centered",
+    "position",
+    "text alignment"
   ],
   "align-justify": [
-      "justified",
-      "position",
-      "text alignment"
+    "justified",
+    "position",
+    "text alignment"
   ],
   "align-left": [
-      "left",
-      "position",
-      "text alignment"
+    "left",
+    "position",
+    "text alignment"
   ],
   "align-right": [
-      "position",
-      "right",
-      "text alignment"
+    "position",
+    "right",
+    "text alignment"
   ],
   "anchor": [
-      "linked"
+    "linked"
   ],
   "archive": [
-      "box",
-      "index"
+    "box",
+    "index"
   ],
   "arrow-apart-diagonal-1": [
-      "distance",
-      "length",
-      "maximize",
-      "measure"
+    "distance",
+    "length",
+    "maximize",
+    "measure"
   ],
   "arrow-apart-diagonal-2": [
-      "distance",
-      "length",
-      "maximize",
-      "measure"
+    "distance",
+    "length",
+    "maximize",
+    "measure"
   ],
   "arrow-apart-horizontal": [
-      "distance",
-      "length",
-      "measure",
-      "wide",
-      "width"
+    "distance",
+    "length",
+    "measure",
+    "wide",
+    "width"
   ],
   "arrow-apart-vertical": [
-      "distance",
-      "height",
-      "length",
-      "measure"
+    "distance",
+    "height",
+    "length",
+    "measure"
   ],
   "arrow-down": [
-      "direction"
+    "direction"
   ],
   "arrow-down-circle": [
-      "direction"
+    "direction"
   ],
   "arrow-down-left": [
-      "direction"
+    "direction"
   ],
   "arrow-down-left-circle": [
-      "direction"
+    "direction"
   ],
   "arrow-down-right": [
-      "direction"
+    "direction"
   ],
   "arrow-down-right-circle": [
-      "direction"
+    "direction"
   ],
   "arrow-left": [
-      "direction"
+    "direction"
   ],
   "arrow-left-circle": [
-      "direction"
+    "direction"
   ],
   "arrow-right": [
-      "direction"
+    "direction"
   ],
   "arrow-right-circle": [
-      "direction"
+    "direction"
   ],
   "arrow-up": [
-      "direction"
+    "direction"
   ],
   "arrow-up-circle": [
-      "direction"
+    "direction"
   ],
   "arrow-up-left": [
-      "direction"
+    "direction"
   ],
   "arrow-up-left-circle": [
-      "direction"
+    "direction"
   ],
   "arrow-up-right": [
-      "direction"
+    "direction"
   ],
   "arrow-up-right-circle": [
-      "direction"
+    "direction"
   ],
   "at-sign": [
-      "email",
-      "mail",
-      "sign"
+    "email",
+    "mail",
+    "sign"
+  ],
+  "award": [
+    "achievement",
+    "badge"
   ],
   "battery-charging-1": [
     "accumulator",
@@ -188,14 +192,26 @@
   ],
   "cabrio": [
     "car",
-    "vehicel",
+    "vehicle",
     "tires",
     "transportation"
   ],
   "car": [
-    "vehicel",
+    "vehicle",
     "tires",
     "transportation"
+  ],
+  "cog": [
+    "settings",
+    "edit",
+    "gear",
+    "preferences"
+  ],
+  "cogs": [
+    "settings",
+    "edit",
+    "gear",
+    "preferences"
   ],
   "corner-down-left": [
     "arrow",
@@ -237,6 +253,35 @@
     "arrow",
     "direction"
   ],
+  "envelope": [
+    "mail",
+    "email",
+    "message"
+  ],
+  "envelope-front": [
+    "mail",
+    "email",
+    "message"
+  ],
+  "envelope-open": [
+    "mail",
+    "email",
+    "message"
+  ],
+  "key-1": [
+    "lock",
+    "password",
+    "login",
+    "authentication",
+    "secure"
+  ],
+  "key-2": [
+    "lock",
+    "password",
+    "login",
+    "authentication",
+    "secure"
+  ],
   "left-1": [
     "arrow",
     "direction"
@@ -244,6 +289,19 @@
   "left-2": [
     "arrow",
     "direction"
+  ],
+  "linicon": [
+    "logo"
+  ],
+  "link-1": [
+    "chain",
+    "url",
+    "join"
+  ],
+  "link-2": [
+    "chain",
+    "url",
+    "join"
   ],
   "maximize-1": [
     "arrow",
@@ -309,6 +367,11 @@
     "circle",
     "spinning"
   ],
+  "slider-h": [],
+  "slider-v": [
+    "settings",
+    "controls"
+  ],
   "stick-figure": [
     "manniquin",
     "guy",
@@ -328,13 +391,33 @@
     "character"
   ],
   "stick-figure-t-pose": [
-    "manniquin",
+    "mannequin",
     "guy",
     "male",
     "man",
     "human",
     "figure",
     "character"
+  ],
+  "unlink-1": [
+    "chain",
+    "url",
+    "join"
+  ],
+  "unlink-2": [
+    "chain",
+    "url",
+    "join"
+  ],
+  "unlink-3": [
+    "chain",
+    "url",
+    "join"
+  ],
+  "unlink-4": [
+    "chain",
+    "url",
+    "join"
   ],
   "up-1": [
     "arrow",
