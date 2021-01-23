@@ -1,0 +1,5 @@
+<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="1.5">
+  <circle cx="16" cy="8" r="6" fill="none" stroke="#000" stroke-width="2"/>
+  <circle cx="17.75" cy="6.25" r="1.25" fill="none" stroke="#000" stroke-width="2"/>
+  <path d="M10 10l-2 2v2H6v2H4v2H2v4h4v-2h2v-2h2v-2h2l2-2" fill="none" stroke="#000" stroke-width="2"/>
+</svg>
