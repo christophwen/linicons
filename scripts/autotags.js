@@ -7,8 +7,8 @@ const obj = {}
 const oldTags = JSON.parse(fs.readFileSync('./src/tags.json'));
 
 fs.readdirSync("./icons/", { withFileTypes: true })
-  .filter((item) => { return !item.isDirectory() && item.name.split('.')[1].localeCompare("svg" )})
-  .map((item) => {
+  .filter((item) => { return !item.isDirectory() && item.name.split('.')[1] === "svg" })
+  .forEach((item) => {
       let keywords = []
     if (oldTags[PATH.parse(item.name).name] === undefined) {
         let keyword = ""
@@ -21,7 +21,6 @@ fs.readdirSync("./icons/", { withFileTypes: true })
         keywords = oldTags[PATH.parse(item.name).name]
     }
     Object.assign(obj, { [PATH.parse(item.name).name]: keywords })
-    return item
   })
 
 fs.writeFileSync("./src/tags.json", JSON.stringify(obj))
