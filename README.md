@@ -14,15 +14,21 @@
 
 https://christophwen.github.io/linicons/
 
-## Icon naming 
+## Icon naming convention
+
+You can checkout the available icon names on the website, where you also can search for specific ones. The names are composed with this convention:
 
 ```
 <icon_name>(-<round_corner_type>)(-<orientation/rotation>)(-<icon_number>)
 ```
 
+As you can see on these examples:
+
 battery-twenty-r | slider-h | key-2 | refresh-cw
 ------------ | ------------- | --- | ---
 `<icon_name>`: battery-twenty <br /> `<corner_type>`: r | `<icon_name>`: slider <br /> `<orientation>`: h | `<icon_name>`: key <br /> `<icon_number>`: 2 | `<icon_name>`: refresh <br /> `<rotation>`: h
+
+Keep in mind, that not all options are available for all icons.
 
 ## Contribution
 Thanks to my friend [@marcopixel](https://github.com/marcopixel) for the basic [website](https://christophwen.github.io/linicons) structure. Check him out!
