@@ -26,7 +26,7 @@ As you can see on these examples:
 
 battery-twenty-r | slider-h | key-2 | refresh-cw
 ------------ | ------------- | --- | ---
-`<icon_name>`: battery-twenty <br /> `<corner_type>`: r | `<icon_name>`: slider <br /> `<orientation>`: h | `<icon_name>`: key <br /> `<icon_number>`: 2 | `<icon_name>`: refresh <br /> `<rotation>`: h
+`<icon_name>`: battery-twenty <br /> `<corner_type>`: r | `<icon_name>`: slider <br /> `<orientation>`: h | `<icon_name>`: key <br /> `<icon_number>`: 2 | `<icon_name>`: refresh <br /> `<rotation>`: cw
 
 Keep in mind, that not all options are available for all icons.
 
